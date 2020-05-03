@@ -1,0 +1,15 @@
+{
+    "version": "0.1.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/eberkund/foreplay/releases/download/v0.1.1/foreplay_0.1.1_windows_amd64.zip",
+            "bin": [
+                "foreplay.exe"
+            ],
+            "hash": "6278dd2f1163271e1a087d680f6049538dd5313628f3a447cc37347077bc70d4"
+        }
+    },
+    "homepage": "https://github.com/eberkund/foreplay",
+    "license": "Apache-2.0",
+    "description": "Software to manage Git pre-commit hooks."
+}
