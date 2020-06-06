@@ -1,12 +1,12 @@
 {
-    "version": "0.2.0",
+    "version": "0.3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/eberkund/foreplay/releases/download/v0.2.0/foreplay_0.2.0_windows_amd64.zip",
+            "url": "https://github.com/eberkund/foreplay/releases/download/v0.3.0/foreplay_0.3.0_windows_amd64.zip",
             "bin": [
                 "foreplay.exe"
             ],
-            "hash": "0c1495e8fae815c054d4c3e31f1248a443ea2a3c04ac6ad0f54f61928b2c5bd6"
+            "hash": "9decf795f7af6bce1556bb473c46a2179d392925194b5c79ac872a492359ab95"
         }
     },
     "homepage": "https://github.com/eberkund/foreplay",
